@@ -1,0 +1,16 @@
+{
+  "name": "bb-02-07",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "fast-check": "^1.10.1",
+    "jest": "^24.1.0"
+  }
+}
